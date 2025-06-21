@@ -1,1 +1,0 @@
-// Placeholder content for: src/assets/js/partials/main-menu.js
