@@ -1,1 +1,17 @@
-// Placeholder content for: src/assets/styles/04-components/header.scss
+
+.pixel-header {
+  background-color: #1c1c1c;
+  border-bottom: 4px solid #444;
+  font-family: 'Press Start 2P', monospace;
+  image-rendering: pixelated;
+
+  a {
+    color: #fff;
+    text-shadow: 1px 1px #000;
+    transition: color 0.2s;
+
+    &:hover {
+      color: #ffd700;
+    }
+  }
+}

@@ -1,1 +1,13 @@
-// Placeholder content for: src/assets/styles/04-components/footer.scss
+
+.pixel-footer {
+  background-color: #1c1c1c;
+  color: #ccc;
+  font-family: 'Press Start 2P', monospace;
+  image-rendering: pixelated;
+  border-top: 4px solid #444;
+
+  p {
+    margin: 4px 0;
+    text-shadow: 1px 1px #000;
+  }
+}
