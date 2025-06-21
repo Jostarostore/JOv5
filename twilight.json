@@ -1,1 +1,12 @@
-// Placeholder content for: twilight.json
+{
+  "name": "Jostaro Pixel Theme",
+  "version": "1.0.0",
+  "author": "Jostaro Studio",
+  "description": "A pixel art inspired e-commerce theme with retro gaming vibes.",
+  "salla_compatible": true,
+  "default_locale": "ar",
+  "locales": [
+    "ar",
+    "en"
+  ]
+}
