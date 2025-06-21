@@ -1,1 +1,10 @@
-// Placeholder content for: src/locales/ar.json
+{
+  "home": "الرئيسية",
+  "collections": "التصنيفات",
+  "contact": "اتصل بنا",
+  "cart": "عربة التسوق",
+  "apparel": "ملابس",
+  "accessories": "إكسسوارات",
+  "headware": "أغطية رأس",
+  "figurines": "مجسمات"
+}

@@ -1,1 +1,10 @@
-// Placeholder content for: src/locales/en.json
+{
+  "home": "Home",
+  "collections": "Collections",
+  "contact": "Contact",
+  "cart": "Cart",
+  "apparel": "Apparel",
+  "accessories": "Accessories",
+  "headware": "Headware",
+  "figurines": "Figurines"
+}
